@@ -5,7 +5,10 @@ body{
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    height: 100vh; /* Full viewport height */}
+    height: 100vh; /* Full viewport height */
+    scale: 2;
+
+}
 
 .center-button {
     /* Optional: Styling for the button */
